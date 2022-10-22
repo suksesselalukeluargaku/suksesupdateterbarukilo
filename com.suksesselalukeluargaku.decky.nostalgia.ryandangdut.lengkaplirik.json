@@ -1,0 +1,244 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "X",
+      "main_ads_intertitial":"X",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "DANGDUT",
+    "image": "file:///android_asset/image/DD.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "NOSTALGIA",
+      "image": "file:///android_asset/image/DN.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "DANGDUT",
+    "title": "TITIP CINTA",
+    "image": "file:///android_asset/image/DD.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT1.mp3",
+    "lyrics": "<p>Kutitipkan kepadamu<br />Dia yang paling kusayang<br />Engkau tau di dalam hatiku<br />Masih menyayangi selalu</p><p><br />Aku rela melepaskan dia<br />Walau harus menderita<br />Karna cinta tidak selamanya<br />Indah dan berakhir bahagia</p><p><br />Seujung rambut, seujung kuku<br />Jangan pernah kau sakiti dirinya</p><p><br />Cintai dia, sayangi dia<br />Janganlah kau sia-siakan dirinya</p><p><br />Biarlah derita kusimpan dalam jiwa<br />Asalkan bahagia s'lalu bersamanya</p><p><br />Kutitipkan kepadamu<br />Dia yang paling kusayang<br />Engkau tau di dalam hatiku<br />Masih menyayangi selalu</p><p><br />Seujung rambut, seujung kuku<br />Jangan pernah kau sakiti dirinya</p><p><br />Cintai dia, sayangi dia<br />Janganlah kau sia-siakan dirinya</p><p><br />Biarlah derita kusimpan dalam jiwa<br />Asalkan bahagia s'lalu bersamanya</p><p><br />Kutitipkan kepadamu<br />Dia yang paling kusayang<br />Engkau tau di dalam hatiku<br />Masih menyayangi selalu</p><p><br />Masih menyayangi selalu</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "DANGDUT",
+    "title": "HARUSKAH BERAKHIR",
+    "image": "file:///android_asset/image/DD.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT2.mp3",
+    "lyrics": "<p>Putik yang sedang berbunga<br />Harum yang sedang mewangi<br />Haruskah gugur ke bumi?</p><p><br />Hati yang sedang bahagia<br />Cinta yang sedang bersemi<br />Haruskah berakhir kini?</p><p><br />Baru saja kureguk manis madu cinta<br />Kini harus kutelan pahitnya juada</p><p><br />Oh-oh</p><p><br />Kalau harus berpisah, mengapa berjumpa?<br />Awal bahagia berakhir merana</p><p><br />Bukan karena salahmu, bukan karena salahku<br />Tetapi kita tiada bahagia</p><p><br />Putik yang sedang berbunga<br />Harum yang sedang mewangi<br />Haruskah gugur ke bumi?</p><p><br />Hati yang sedang bahagia<br />Cinta yang sedang bersemi<br />Haruskah berakhir kini?</p><p><br />Baru saja kureguk manis madu cinta<br />Kini harus kutelan pahitnya juada</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "DANGDUT",
+    "title": "GERIMIS MENGUNDANG",
+    "image": "file:///android_asset/image/DD.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT3.mp3",
+    "lyrics": "<p>Kusangkakan panas berpanjangan<br />Rupanya gerimis, rupanya gerimis<br />Mengundang a-ha-ha-ah<br />Dalam tak sedar 'ku kebasahan</p><p><br />Pernah juga kau pinta perpisahan<br />Aku sangkakan itu hanyalah<br />Gurauan a-ha-ha-ah<br />Nyata kau serius dalam senyuman</p><p><br />Bukan sekejap denganmu<br />Bukan mainan hasratku<br />Engkau pun tahu niatku<br />Tulus dan suci<br />Senang benar kau ucapkan<br />Kau anggap itu suratan<br />Sikit pun riak wajahmu<br />Tiada terkilan</p><p><br />Hanya aku separuh nyawa<br />Menahan sebak di dada<br />Sedangkan kau bersahaja<br />Berlalu tanpa kata<br />Terasa diri amat terhina<br />Kau lakukan<br />Terasa diri amat terhina<br />Kau lakukan</p><p><br />Bukan sekejap denganmu<br />Bukan mainan hasratku<br />Engkau pun tahu niatku<br />Tulus dan suci<br />Senang benar kau ucapkan<br />Kau anggap itu suratan<br />Sikit pun riak wajahmu<br />Tiada terkilan</p><p><br />Hanya aku separuh nyawa<br />Menahan sebak di dada<br />Sedangkan kau bersahaja<br />Berlalu tanpa kata<br />Terasa diri amat terhina<br />Kau lakukan<br />Terasa diri amat terhina<br />Kau lakukan</p><p><br />Sia-sia kukorban selama ini<br />Jika kasihku, jika hatiku<br />Kau guris o-ho-ho-oh<br />Dalam tak sedar 'ku menangis</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "DANGDUT",
+    "title": "CINCIN PUTIH",
+    "image": "file:///android_asset/image/DD.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT4.mp3",
+    "lyrics": "<p>Masih terasa hangatnya malam pengantin<br />Masih teringat ikrar setia pengantin<br />Tapi di hatiku, hadir cinta lain<br />Cinta seorang gadis, hai, si Cincin Putih</p><p><br />Kusadari semua kenyataan ini<br />Takkan mungkin aku mudah melepaskannya<br />Walau berat hati menduakan istri<br />Tapi berat pula berpisah dengannya<br />Kar'na Cincin Putih tulus pula cintanya</p><p><br />Cincin Putih, Sayang, tak menyesalkah engkau<br />Membukakan hatimu, mencurahkan cintamu<br />Padaku, seorang lelaki yang t'lah beristri?</p><p><br />Cincin Putih, Sayang, apakah cinta ini<br />Mampu untuk bertahan atau hancur perlahan<br />Dan hanya menjadi kisah cinta satu malam?<br />Memang kuakui, di antara kita jelas berbeda</p><p><br />Kusadari semua kenyataan ini<br />Takkan mungkin aku mudah melepaskannya<br />Walau berat hati menduakan istri<br />Tapi berat pula berpisah dengannya<br />Kar'na Cincin Putih tulus pula cintanya</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "DANGDUT",
+    "title": "MASIH ADAKAH CINTA",
+    "image": "file:///android_asset/image/DD.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT5.mp3",
+    "lyrics": "<p>Aduhai sang bidadari<br />Benarkah kau membenciku<br />Ataukah memang<br />Kau tak sudi lagi</p><p><br />Ha-aa-aa<br />Masih adakah rasa sayang dihatimu<br />Masih adakah rasa cinta dihatimu<br />Serta kerinduan didalam hatimu<br />Untuk diriku yang mencintaimu</p><p><br />Masih adakah rasa sayang dihatimu<br />Masih adakah sisa cinta dihatimu<br />Yaa- ha-ha- ha</p><p><br />Hu-hu-ha-ha-ha</p><p><br />Getarkan bibirmu bicaralah sayang<br />Walau kau berdusta aku takkan marah<br />Pabila dirimu tak mau bicara<br />Berarti dirimu ada kebimbangan</p><p><br />Izinkanlah aku untuk meyakinkan<br />Bahwa dirimu masih sayang padaku<br />Hey-he-he yeah</p><p><br />Getarkan bibirmu bicaralah sayang<br />Walau kau berdusta aku takkan marah</p><p><br />Pabila dirimu tak mau bicara<br />Berarti hatimu ada kebimbangan</p><p><br />Izinkanlah Aku untuk meyakinkan<br />Bahwa dirimu masih sayang padaku<br />Ho-oo ha-aa</p><p><br />Masih adakah rasa sayang dihatimu<br />Masih adakah sisa cinta dihatimu</p><p><br />Serta kerinduan didalam hatimu<br />Untuk diriku yang mencintaimu</p><p><br />Masih adakah rasa sayang dihatimu<br />Masih adakah sisa cinta dihatimu</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "DANGDUT",
+    "title": "SUSAH HATI",
+    "image": "file:///android_asset/image/DD.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT6.mp3",
+    "lyrics": "<p>Aku orang susah di dalam bercinta<br />Tak pernah merasa kebahagiaan<br />Bukan ku tak sudi membalas cintamu<br />Aku takut nanti kau menderita<br />Aku orang susah</p><p><br />Cahaya harapan tak mungkin kugapai<br />Walau kaupaksakan hidup bersamaku</p><p><br />Sesal kemudian tiada artinya<br />Hanya air mata yang tiada habisnya</p><p><br />Janganlah, oh, janganlah<br />Kaucintai diriku<br />Tak sampai hati ini<br />Melihat engkau sengsara</p><p><br />Bukan ku tak sudi membalas cintamu<br />Aku takut nanti kau menderita<br />Aku orang susah</p><p><br />Cahaya harapan tak mungkin kugapai<br />Walau kaupaksakan hidup bersamaku</p><p><br />Sesal kemudian tiada artinya<br />Hanya air mata yang tiada habisnya</p><p><br />Janganlah, oh, janganlah<br />Kaucintai diriku<br />Tak sampai hati ini<br />Melihat engkau sengsara</p><p><br />Aku orang susah di dalam bercinta<br />Tak pernah merasa kebahagiaan<br />Bukan ku tak sudi membalas cintamu<br />Aku takut nanti kau menderita<br />Aku orang susah</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "DANGDUT",
+    "title": "TIARA",
+    "image": "file:///android_asset/image/DD.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT7.mp3",
+    "lyrics": "<p>Tiara, menggamit kenangan zaman persekolahan<br />Tiara, kumimpi kita bersanding atas kayangan<br />Seakan bisa kusentuh peristiwa semalam<br />Di malam pesta, engkau bisikkan kata azimat di telinga</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini?</p><p><br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini?</p><p><br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "DANGDUT",
+    "title": "ORANG TAK PUNYA",
+    "image": "file:///android_asset/image/DD.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT8.mp3",
+    "lyrics": "<p>Sungguh terlalu kau hina diriku<br />Dengan kata kata yang menusuk hatiku<br />Kejam dirimu kau buat hati ini<br />Luka dan kecewa untuk selamanya</p><p><br />Berpisah ya berpisah<br />Mungkin sudah suratan<br />Namun janganlah kau sakiti hatiku</p><p><br />Mata hatimu tertumpuk kemilau harta<br />Hingga lunturnya cinta yang kita bina<br />Aku menyadari ku orang tak punya<br />Namun di hati ini punya rasa cinta</p><p><br />Kejam dirimu kau buat hati ini<br />Luka dan kecewa untuk selamanya</p><p><br />Berpisah ya berpisah<br />Mungkin sudah suratan<br />Namun janganlah kau sakiti hatiku</p><p><br />Mata hatimu tertumpuk kemilau harta<br />Hingga lunturnya cinta yang kita bina<br />Aku menyadari ku orang tak punya<br />Namun di hati ini punya rasa cinta</p><p><br />Kejam dirimu kau buat hati ini<br />Luka dan kecewa untuk selamanya</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "DANGDUT",
+    "title": "DAWAI ASMARA",
+    "image": "file:///android_asset/image/DD.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT9.mp3",
+    "lyrics": "<p>Dawai asmara bergetar syahdu<br />Mengalunkan senandung rindu<br />Belaian mesra membuai jiwa<br />Tak terlukiskan bahagia</p><p><br />Hanyut dalam gelora cinta<br />Hanyut di dalam sukacita<br />Tenggelam dalam madu cinta<br />Tenggelam di dalam bahagia</p><p><br />Dawai asmara bergetar syahdu<br />Mengalunkan senandung rindu<br />Belaian mesra membuai jiwa<br />Tak terlukiskan bahagia</p><p><br />Syair para pujangga<br />Mengabadikan cinta<br />Hati para dewasa<br />Pasti tersentuh cinta</p><p><br />Ada yang lembut dan manja<br />Cinta membuat terlena<br />Ada kala bergelora<br />Bak debur ombak samudra</p><p><br />Pesona cinta menggapai sukma<br />Menjanjikan sejuta indah<br />Terbit selera tergugah jiwa<br />Tuk menyemaikan benih cinta</p><p><br />Semoga putik 'kan berbunga<br />Semoga panggilan berjawab<br />Kuingin hidup dengan cinta<br />Kuingin selalu bersamanya</p><p><br />Pesona cinta menggapai sukma<br />Menjanjikan sejuta indah<br />Terbit selera tergugah jiwa<br />Tuk menyemaikan benih cinta</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "DANGDUT",
+    "title": "DISANA MENUNGGU DISINI MENANTI",
+    "image": "file:///android_asset/image/DD.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT10.mp3",
+    "lyrics": "<p>Seumur hidup aku ini yang pertama<br />Pintu hatiku diketuk oleh dua wanita<br />Punyai ciri selama ini kucari<br />Berbeza wajah ayunya tetap asli</p><p><br />Kalau kupilih di sini apa kata di sana<br />Kalau kupilih di sana di sini akan terluka<br />Perlukah aku pilih keduanya<br />Bahagi kasih seadil adilnya</p><p><br />Sungguh ku merasa resah<br />Untuk menilai sesuatu yang indah<br />Namun ku ada pepatah<br />Yang aku gubah<br />Di sana hanyalah menanti<br />Sampai bila pun ku tak pasti</p><p><br />Bertanya kabar melalui tinta<br />Jarang sekali bertemu muka<br />Namun kutahu dia setia</p><p><br />Dan di sini tetap menunggu<br />Berada jelas di mataku<br />Kasih tak luah terhadap aku<br />Sanggup menunggu kata putusku<br />Sayang ketabahanmu menawanku</p><p><br />Sungguh ku merasa resah<br />Untuk menilai sesuatu yang indah<br />Namun ku ada pepatah<br />Yang aku gubah<br />Di sana hanyalah menanti<br />Sampai bila pun ku tak pasti</p><p><br />Bertanya kabar melalui tinta<br />Jarang sekali bertemu muka<br />Namun kutahu dia setia</p><p><br />Dan di sini tetap menunggu<br />Berada jelas di mataku<br />Kasih tak luah terhadap aku<br />Sanggup menunggu kata putusku<br />Sayang ketabahanmu menawanku</p><p><br />Kuterima satu nota ringkas tulisannya<br />Dia sedia undur diri dan memaafkanku<br />Katanya anggap ini satu mimpi<br />Yang datang sekadar untuk menguji</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "DANGDUT",
+    "title": "HANYA KAMU",
+    "image": "file:///android_asset/image/DD.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT11.mp3",
+    "lyrics": "<p>Sayang harus bagaimana aku menyakinkan cintaku ini<br />Sayang ku tak tahu lagi untuk membuktikan agar kau percaya<br />Dalam hati ini hanya ada satu<br />Namamu untuk slamanya</p><p><br />Dalam mimpiku bayangmu merayu<br />Ku ingin slalu bersamamu<br />Sayang harus bagaimana aku menyakinkan cintaku ini<br />Demi langit dan bumi</p><p><br />Sayangku hanya untukmu seorang</p><p><br />Luas lautan Kasih<br />Aku renangi demimu Sayang</p><p><br />Andai engkau mengerti<br />Betapa ku sangat merindumu<br />Smoga kau memahami<br />Betapa besar cintaku ini<br />Sayang harus bagaimana aku menyakinkan cintaku ini</p><p><br />Demi langit dan bumi<br />Sayangku hanya untukmu seorang</p><p><br />Luas lautan Kasih<br />Aku renangi demimu Sayang</p><p><br />Andai engkau mengerti<br />Betapa ku sangat merindumu<br />Smoga kau memahami<br />Betapa besar cintaku ini</p><p><br />Sayang harus bagaimana aku menyakinkan cintaku ini<br />Sayang ku tak tahu lagi untuk membuktikan agar kau percaya</p><p><br />Dalam hati ini hanya ada satu<br />Namamu untuk slamanya<br />Dalam mimpiku bayangmu merayu<br />Ku ingin slalu bersamamu</p><p><br />Sayang harus bagaimana aku menyakinkan cintaku ini</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "DANGDUT",
+    "title": "KEJAMNYA HATIMU",
+    "image": "file:///android_asset/image/DD.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT12.mp3",
+    "lyrics": "<p>Tersiksa, hatiku tersiksa<br />Karena cinta yang durjana<br />Berjuta kecewa, terluka di dada<br />Dirimu telah menduakan cinta</p><p><br />Ho-oh-oh</p><p><br />Sungguh kejam hatimu<br />Pada diriku</p><p><br />Terluka, hatiku terluka<br />Karena cinta yang durjana</p><p><br />Janji yang terucap dulu<br />Dari bibir manismu, sayang<br />Begitu mudahnya<br />Kau campakkan semua</p><p><br />Tanda cinta yang kuberi<br />Tak lagi di jari manismu<br />Telah kau campakkan<br />Cintaku yang suci<br />Biarlah kubawa<br />Derita hatiku yang terluka</p><p><br />Terluka, hatiku terluka<br />Karena cinta yang durjana</p><p><br />Janji yang terucap dulu<br />Dari bibir manismu, sayang<br />Begitu mudahnya<br />Kau campakkan semua</p><p><br />Tanda cinta yang kuberi<br />Tak lagi di jari manismu<br />Telah kau campakkan<br />Cintaku yang suci<br />Biarlah kubawa<br />Derita hatiku yang terluka</p><p><br />Terluka, hatiku terluka<br />Karena cinta yang durjana</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "NOSTALGIA",
+    "title": "BEGITU INDAH",
+    "image": "file:///android_asset/image/DN.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT13.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "NOSTALGIA",
+    "title": "BUKAN SALAHMU",
+    "image": "file:///android_asset/image/DN.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT14.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "NOSTALGIA",
+    "title": "BUIH JADI PERMADANI",
+    "image": "file:///android_asset/image/DN.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT15.mp3",
+    "lyrics": "<p>Dinginnya angin malam ini<br />Menyapa tubuhku<br />Namun tidak dapat di inginkan panasnya<br />Hatiku ini</p><p><br />Terasa terhempasnya kelakian ku ini<br />Dengan sikapmu<br />Apakah karena aku<br />Insan kekurangan<br />Mudahnya kau mainkan</p><p><br />Oh mungkinkah diri ini<br />Dapat merubah buih<br />Yang memutih<br />Menjadi permadani<br />Seperti pinta<br />Yang kau ucap<br />Dalam janji cinta</p><p><br />Juga mustahil bagiku<br />Menggapai bintang dilangit<br />Siapalah diriku<br />Hanya insan biasa<br />Semua itu<br />Sungguh aku<br />Tiada mampu</p><p><br />Salah aku juga<br />Karena jatuh cinta<br />Insan seperti dirimu seanggun bidadari<br />Seharusnya aku<br />Cerminkan diriku<br />Sebelum tirai hati<br />Aku buka</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "NOSTALGIA",
+    "title": "CINTA ITU BUTA",
+    "image": "file:///android_asset/image/DN.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT16.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "NOSTALGIA",
+    "title": "EMAS HANTARAN",
+    "image": "file:///android_asset/image/DN.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT17.mp3",
+    "lyrics": "<p>Berakhir sudah impian cinta<br />Tinggalah puing-puingnya<br />Mimpi yang indah tak jadi nyata<br />Terkikis ombak menerpa</p><p><br />Aku yang dulu engkau sayangi<br />Mengapa kau tinggal pergi<br />Oh dimanakah janji yang suci<br />Yang katamu tak berbagi<br />Ku ingin kau mengerti<br />Apa yang ku alami<br />Takdir diriku<br />Harus melangkah jauh darimu</p><p><br />Andaikan aku boleh bertanya<br />Apakah ada salah diriku<br />Agar ku jauh<br />Dari prasangka rasa cemburu</p><p><br />Tiada salah diriku kasih<br />Salah pada nasibku sendiri<br />Karna tak punya<br />Emas permata hantaran cinta</p><p><br />Aku yang dulu engkau sayangi<br />Mengapa kau tinggal pergi<br />Oh dimanakah janji yang suci<br />Yang katamu tak berbagi</p><p><br />Ku ingin kau mengerti<br />Apa yang ku alami<br />Takdir diriku<br />Harus melangkah jauh darimu</p><p><br />Andaikan aku boleh bertanya<br />Apakah ada salah diriku<br />Agar ku jauh<br />Dari prasangka rasa cemburu</p><p><br />Tiada salah diriku kasih<br />Salah pada nasibku sendiri<br />Karna tak punya<br />Emas permata hantaran cinta</p>"
+  },
+  {
+    "id": 18,
+    "name_category": "NOSTALGIA",
+    "title": "KITA DITAKDIRKAN JATUH CINTA",
+    "image": "file:///android_asset/image/DN.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT18.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "NOSTALGIA",
+    "title": "LUKA YANG PARAH",
+    "image": "file:///android_asset/image/DN.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT19.mp3",
+    "lyrics": "<p>Tiada angin atau pun turun nya hujan<br />Tiada badai atau pun gelombang datang<br />Tiba tiba saja kau putuskan cinta<br />Apa kah salah apakah dosa ku</p><p><br />Bukan nya obat luka yang kau berikan<br />Tetapi asam cuka yg kau siramkan<br />Madu yg kau janjikan<br />Racun kau suguhkan<br />Begitu hinakah aku dimatamu<br />Sehingga engkau campakkan<br />Diriku ini...<br />Akan kemana langkah ku bawa<br />Jangan kan berlari<br />Berdiri pun susah</p><p><br />Seumur hidupku baru ku alami<br />Betapa sedih nya bila patah hati<br />Seakan bumi ini menghimpit tubuhku<br />Namun akan ku coba tabah menghadapi<br />Walau pun berat harus ku jalani jua<br />Biarlah derita menyelimuti<br />Biarlah luka semakin parah</p>"
+  },
+  {
+    "id": 20,
+    "name_category": "NOSTALGIA",
+    "title": "MENCARI ALASAN",
+    "image": "file:///android_asset/image/DN.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT20.mp3",
+    "lyrics": "<p>Ikhlasnya hati sering kali disalah arti<br />Tulusnya cinta tidak pernah engkau hargai<br />Berlalu pergi dengan kelukaan ini<br />Ku mengalah ku bersabar</p><p><br />Berpaling muka bila saling bertatap mata<br />Seolah kita tiada pernah saling mencinta<br />Mencari sebab serta mencari alasan<br />Supaya tercapai hasratmu</p><p><br />Manis di bibir memutar kata<br />Malah kau tuduh akulah segala penyebabnya<br />Siapa terlena pasti dia terpana bujuknya rayunya suaranya<br />Yang meminta simpati dan harapan</p><p><br />Engkau pastinya tersenyum dengan pengunduran diriku<br />Tetapi bagi diriku suatu ketenangan<br />Andainya kita terus bersama belum tentu kita bahagia<br />Selama tidak kau rubah cara hidupmu</p><p><br />Ada baiknya bila tidak lagi bersama<br />Terasa jauh diriku ini dengan dosa<br />Aku tinggalkan walau tanpa kerelaan<br />Yang nyata kau tidak berubah</p><p><br />Berpaling muka bila saling bertatap mata<br />Seolah kita tiada pernah saling mencinta<br />Mencari sebab serta mencari alasan<br />Supaya tercapai hasratmu</p><p><br />Manis di bibir memutar kata<br />Malah kau tuduh akulah segala penyebabnya<br />Siapa terlena pasti dia terpana bujuknya rayunya suaranya<br />Yang meminta simpati dan harapan</p><p><br />Engkau pastinya tersenyum dengan pengunduran diriku<br />Tetapi bagi diriku suatu ketenangan<br />Andainya kita terus bersama belum tentu kita bahagia<br />Selama tidak kau rubah cara hidupmu</p><p><br />Katakan apa yang kau ingin selagi kau dapat berkata<br />Memang begini sikapmu semenjak dahulu<br />Andainya kita terus bersama belum tentu kita bahagia<br />Selama tidak kau rubah cara hidupmu</p>"
+  },
+  {
+    "id": 21,
+    "name_category": "NOSTALGIA",
+    "title": "RINDU SERIUNDU RINDUNYA",
+    "image": "file:///android_asset/image/DN.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT21.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "NOSTALGIA",
+    "title": "REMBULAN MALAH",
+    "image": "file:///android_asset/image/DN.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT22.mp3",
+    "lyrics": "<p>Rembulan malam berbalut sepi<br />Suasana dingin merayu hati<br />Cah'ya di bulan ikut menghiasi<br />Nuansa misteri menyelimuti</p><p>&nbsp;</p><p>Hilang pandangan di dalam mata<br />Bayanganmu menepi di angkasa<br />Entah berapa lama kau di sana<br />Sehingga diriku ingin bersua</p><p><br />Korbankan diri dalam ilusi<br />Hilangkan rindu yang membelenggu<br />Membuang waktu bersama mimpi<br />Walaupun sepi takkan berlalu</p><p><br />Pada malam kutitipkan salam<br />Untuk dirimu yang aku sayang<br />Semoga cinta kita 'kan abadi<br />Sampai mati ku akan menanti</p><p><br />Hilang pandangan di dalam mata<br />Bayanganmu menepi di angkasa<br />Entah berapa lama kau di sana<br />Sehingga diriku ingin bersua</p><p><br />Korbankan diri dalam ilusi<br />Hilangkan rindu yang membelenggu<br />Membuang waktu bersama mimpi<br />Walaupun sepi takkan berlalu</p><p><br />Korbankan diri dalam ilusi<br />Hilangkan rindu yang membelenggu<br />Membuang waktu bersama mimpi<br />Walaupun sepi takkan berlalu</p><p><br />Pada malam kutitipkan salam<br />Untuk dirimu yang aku sayang<br />Semoga cinta kita 'kan abadi<br />Sampai mati ku akan menanti</p>"
+  },
+  {
+    "id": 23,
+    "name_category": "NOSTALGIA",
+    "title": "SATU NAMA TETAP DIHATI",
+    "image": "file:///android_asset/image/DN.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT23.mp3",
+    "lyrics": "<p>Ada satu nama suatu masa dulu<br />Pernah bawa dan beri bahagia<br />Hingga saat ini<br />Masih ku abadikan di dalam hatiku</p><p><br />Dengan satu rasa dalam satu cinta<br />Sewaktu kita bersama dulu<br />Hanya kita yang tahu<br />Dalam mana telah cinta<br />Kita memutik</p><p><br />Walau akhir ini seakan terpisah<br />Oleh masa dan suasana tak dipinta<br />Namun percayalah tidak sedikit pun<br />Kasihku kepadamu surut dan berubah</p><p><br />Pasti suatu masa kan bersama lagi<br />Engkau dan aku pasti jua nikmati<br />Cinta yang istimewa<br />Walau ku tak pasti bilakah masanya<br />Kau dan aku akan bertemu<br />Untuk kita kembalikan keindahan dulu</p><p><br />Walau akhir ini seakan terpisah<br />Oleh masa dan suasana tak dipinta<br />Namun percayalah tidak sedikit pun<br />Kasihku kepadamu surut dan berubah</p><p><br />Pasti suatu masa kan bersama lagi<br />Engkau dan aku pasti jua nikmati<br />Satu cinta yang indah<br />Walau ku tak pasti bilakah masanya<br />Kau dan aku akan bertemu<br />Untuk kita kembalikan keindahan dulu</p><p><br />Dengan satu rasa dalam satu cinta<br />Sewaktu kita bersama dulu<br />Kusemat di dalam hati<br />Hingga kita kan bertemu<br />Kemudian hari</p>"
+  },
+  {
+    "id": 24,
+    "name_category": "NOSTALGIA",
+    "title": "SUCI DALAM DEBU",
+    "image": "file:///android_asset/image/DN.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT24.mp3",
+    "lyrics": "<p>Engkau bagai air yang jernih<br />Di dalam bekas yang berdebu<br />Zahirnya kotoran itu terlihat<br />Kesucian terlindung jua</p><p><br />Cinta bukan hanya di mata<br />Cinta hadir di dalam jiwa<br />Biarlah salah di mata mereka<br />Biar perbezaan terlihat antara kita</p><p><br />Ku harapkan kau kan terima<br />Walau dipandang hina<br />Namun hakikat cinta kita<br />Kita yang rasa</p><p><br />Suatu hari nanti<br />Pastikan bercahaya<br />Pintu akan terbuka<br />Kita langkah bersama<br />Di situ kita lihat<br />Bersinarlah hakikat<br />Debu jadi permata<br />Hina jadi mulia<br />Bukan khayalan yang aku berikan<br />Tapi keyakinan yang nyata<br />Kerana cinta lautan berapi</p><p><br />Pasti akan kurenang jua</p><p><br />Ku harapkan kau kan terima<br />Walau dipandang hina<br />Namun hakikat cinta kita<br />Kita yang rasa</p><p><br />Suatu hari nanti<br />Pastikan bercahaya<br />Pintu akan terbuka<br />Kita langkah bersama<br />Di situ kita lihat<br />Bersinarlah hakikat<br />Debu jadi permata<br />Hina jadi mulia</p><p><br />Suatu hari nanti<br />Pastikan bercahaya<br />Pintu akan terbuka<br />Kita langkah bersama<br />Di situ kita lihat<br />Bersinarlah hakikat<br />Debu jadi permata</p>"
+  },
+  {
+    "id": 25,
+    "name_category": "NOSTALGIA",
+    "title": "TITIP RIDNU BUAT AYAH",
+    "image": "file:///android_asset/image/DN.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT25.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "NOSTALGIA",
+    "title": "YANG PERNAH KUSYANG",
+    "image": "file:///android_asset/image/DN.jpg",
+    "link_mp3": "mp3/DCNOSRYDUT26.mp3",
+    "lyrics": ""
+  }
+  ]
+}
